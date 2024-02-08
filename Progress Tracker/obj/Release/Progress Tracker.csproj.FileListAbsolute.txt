@@ -1,0 +1,11 @@
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\bin\Release\Progress Tracker.exe.config
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\bin\Release\Progress Tracker.exe
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\bin\Release\Progress Tracker.pdb
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.csproj.AssemblyReference.cache
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress_Tracker.Form1.resources
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress_Tracker.Properties.Resources.resources
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.csproj.GenerateResource.cache
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.exe
+C:\Users\Yetkin\source\repos\Progress Tracker\Progress Tracker\obj\Release\Progress Tracker.pdb

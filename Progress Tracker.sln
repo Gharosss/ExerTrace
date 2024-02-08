@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progress Tracker", "Progress Tracker\Progress Tracker.csproj", "{9F409C52-F66D-4D20-9D36-5EB3333445CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F409C52-F66D-4D20-9D36-5EB3333445CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F409C52-F66D-4D20-9D36-5EB3333445CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F409C52-F66D-4D20-9D36-5EB3333445CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F409C52-F66D-4D20-9D36-5EB3333445CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D3117F-E385-4805-BDC3-18B74CE7E537}
+	EndGlobalSection
+EndGlobal
